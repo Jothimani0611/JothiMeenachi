@@ -13,4 +13,14 @@ public class TestGit {
 	System.out.println("I am fun3");
 
 	}
+	public void india() {
+		System.out.println("I am Indian");
+
+	}
+	public void australia() {
+		System.out.println("I know Australians");
+	}
+	public void usa() {
+		System.out.println("United states of america");
+	}
 }
