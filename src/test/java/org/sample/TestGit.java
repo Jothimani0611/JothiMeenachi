@@ -13,4 +13,16 @@ public class TestGit {
 	System.out.println("I am fun3");
 
 	}
+	private void fun4() {
+		System.out.println("I am fun4 ");
+
+	}
+	private void fun5() {
+		System.out.println("I am fun5");
+
+	}
+	private void fun6() {
+		System.out.println("I am fun6");
+
+	}
 }
