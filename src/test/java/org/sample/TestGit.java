@@ -13,7 +13,18 @@ public class TestGit {
 	System.out.println("I am fun3");
 
 	}
-<<<<<<< HEAD
+	public void india() {
+		System.out.println("I am Indian");
+
+	}
+	public void australia() {
+		System.out.println("I know Australians");
+	}
+	public void usa() {
+		System.out.println("United states of america");
+
+	}
+
 	private void fun4() {
 		System.out.println("I am fun4 ");
 
@@ -24,17 +35,6 @@ public class TestGit {
 	}
 	private void fun6() {
 		System.out.println("I am fun6");
-
-=======
-	public void india() {
-		System.out.println("I am Indian");
-
-	}
-	public void australia() {
-		System.out.println("I know Australians");
-	}
-	public void usa() {
-		System.out.println("United states of america");
->>>>>>> 2e4aadf954e8904f382e0cb394a3c2cdf68dde69
-	}
+	
+}
 }
