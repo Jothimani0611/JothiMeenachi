@@ -22,5 +22,19 @@ public class TestGit {
 	}
 	public void usa() {
 		System.out.println("United states of america");
+
 	}
+
+	private void fun4() {
+		System.out.println("I am fun4 ");
+
+	}
+	private void fun5() {
+		System.out.println("I am fun5");
+
+	}
+	private void fun6() {
+		System.out.println("I am fun6");
+	
+}
 }
